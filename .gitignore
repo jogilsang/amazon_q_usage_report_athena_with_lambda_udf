@@ -1,0 +1,36 @@
+# Configuration
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Lambda package
+lambda_function.zip
+
+# Java build artifacts
+target/
+*.class
+# Keep final JAR for deployment
+!java_udf/**/target/*.jar
+!java_udf/**/target/identity-center-udf-*.jar
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Amazon Q
+.amazonq/
