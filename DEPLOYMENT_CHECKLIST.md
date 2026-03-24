@@ -16,7 +16,7 @@
 - **UDF 함수**: `getusername(user_id)`
 - **결과 예시**:
   - UserId: 8488bd6c-5081-7061-3353-13643f204de9
-  - UserName: chogilsang@gsneotek.com
+  - UserName: chogilsang@OOO.com
 
 ### 3. 문서 업데이트
 - ✅ README.md - 사용 예제 추가
